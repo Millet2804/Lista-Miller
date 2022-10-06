@@ -3780,11 +3780,11 @@ http://ys-users.com:8080/Legend/legendrestream0429/404840
 http://jumangis.com:2082/cuenta0004/TWuu2JrWzf/149686.ts
 #EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" tvg-logo="http://tvgolatino.com:8080/images/10e78d70b52c518f95826ab81a82c10f.jpg",24/7 El Narrador de Cuentos HD
 http://jumangis.com:2082/cuenta0004/TWuu2JrWzf/149695.ts
-#EXTINF:-1 tvg-name="24/7 El Narrador de Cuentos" ,24/7 El Narrador de Cuentos
+#EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" ,24/7 El Narrador de Cuentos
 http://megatitan.net:8080/Gilberto/123456/25133
-#EXTINF:-1 tvg-name="24/7 El Narrador de Cuentos HD" ,24/7 El Narrador de Cuentos HD
+#EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" ,24/7 El Narrador de Cuentos HD
 http://megatitan.net:8080/Gilberto/123456/113786
-#EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡",24/7 El Auto Fantastico Temp 1
+#EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" ,24/7 El Auto Fantastico Temp 1
 http://jumangis.com:2082/cuenta0004/TWuu2JrWzf/149598.ts
 #EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" tvg-logo="https://www.guioteca.com/los-80/files/2016/04/Los-Magnificos.jpg",24/7 Los Magnificos Temp 1
 http://jumangis.com:2082/cuenta0004/TWuu2JrWzf/149600.ts
@@ -3800,15 +3800,15 @@ http://megatitan.net:8080/Gilberto/123456/69261
 http://megatitan.net:8080/Gilberto/123456/24660
 #EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" ,24/7 El Auto Fantastico (2008)
 http://megatitan.net:8080/Gilberto/123456/26595
-#EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡1" ,24/7 Los Magnificos Temp 1
+#EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" ,24/7 Los Magnificos Temp 1
 http://megatitan.net:8080/Gilberto/123456/26597
 #EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" ,24/7 Los Magnificos Temp 1
 http://megatitan.net:8080/Gilberto/123456/26620
 #EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" ,24/7 MacGiver (2016) Temp 2
 http://megatitan.net:8080/Gilberto/123456/26621
-#EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" tvg-logo="http://castlempire.site:8080/images/c7496002c9d9b6c5b78b338a2b8baf57.png" $ExtFilter="AGO 23",24/7 VIP | Dos Hombres y Medio (e)(720)
+#EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" tvg-logo="http://castlempire.site:8080/images/c7496002c9d9b6c5b78b338a2b8baf57.png",24/7 Dos Hombres y Medio (e)(720)
 http://nextv-chile.xyz:2080/diego2022/diego2022/71476
-#EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" tvg-logo="http://castlempire.site:8080/images/39c1beb151611b237b8257b461796302.png" $ExtFilter="AGO 23",24/7 VIP | The Big Bang Theory (e)(720)
+#EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" tvg-logo="http://castlempire.site:8080/images/39c1beb151611b237b8257b461796302.png",24/7 The Big Bang Theory (e)(720)
 http://nextv-chile.xyz:2080/diego2022/diego2022/71637
 
 
@@ -4279,17 +4279,17 @@ http://nextv-chile.xyz:2080/diego2022/diego2022/71656
 
 
 
-#EXTINF:-1 group-title="😈XXX VIP😈" tvg-logo="http://54.39.156.227:2080/images/aecc148f6188aac70d649bce2853ad81.png" $ExtFilter="AGO 23",MamacitaZ
+#EXTINF:-1 group-title="😈XXX VIP😈" tvg-logo="http://54.39.156.227:2080/images/aecc148f6188aac70d649bce2853ad81.png" ,MamacitaZ
 http://nextv-chile.xyz:2080/diego2022/diego2022/68257
-#EXTINF:-1 group-title="😈XXX VIP😈" tvg-logo="http://ametv.xyz:25461/images/3380830448b97b78792fd244aa294afe.png" $ExtFilter="AGO 23",Sex-Mex Channel
+#EXTINF:-1 group-title="😈XXX VIP😈" tvg-logo="http://ametv.xyz:25461/images/3380830448b97b78792fd244aa294afe.png" ,Sex-Mex Channel
 http://nextv-chile.xyz:2080/diego2022/diego2022/68243
-#EXTINF:-1  group-title="😈XXX VIP😈",Dancing Bear
+#EXTINF:-1 group-title="😈XXX VIP😈" ,Dancing Bear
 http://jumangis.com:2082/cuenta0004/TWuu2JrWzf/158605.ts
-#EXTINF:-1 group-title="😈XXX VIP😈" tvg-logo="http://vaktar.vip:8080/images/8a8410990293f2149fabac8057592eb6.png",XXX: Dancing Bear HD (VIP)
+#EXTINF:-1 group-title="😈XXX VIP😈" tvg-logo="http://vaktar.vip:8080/images/8a8410990293f2149fabac8057592eb6.png" ,XXX: Dancing Bear HD (VIP)
 http://jumangis.com:2082/cuenta0004/TWuu2JrWzf/158924.ts
-#EXTINF:-1 group-title="😈XXX VIP😈",Dancing Bear HD
+#EXTINF:-1 group-title="😈XXX VIP😈" ,Dancing Bear HD
 http://jumangis.com:2082/cuenta0004/TWuu2JrWzf/158605.ts
-#EXTINF:-1  group-title="😈XXX VIP😈",Hentai
+#EXTINF:-1 group-title="😈XXX VIP😈" ,Hentai
 http://jumangis.com:2082/cuenta0004/TWuu2JrWzf/158916.ts
 #EXTINF:-1 group-title="😈XXX VIP😈" tvg-logo="../Channel/Logo/Exxxotica HD.png",XXX: SexMex (VIP)
 http://jumangis.com:2082/cuenta0004/TWuu2JrWzf/158920.ts
@@ -4324,77 +4324,61 @@ http://megatitan.net:8080/Gilberto/123456/233371
 #EXTINF:-1 group-title="😈XXX VIP😈" ,XXX: SexTreame
 http://megatitan.net:8080/Gilberto/123456/233417
 
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/cba656ddfe995a606780de09d0c52169.png" $ExtFilter="AGO 23",Moviecenter Premium
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/cba656ddfe995a606780de09d0c52169.png" ,Moviecenter Premium
 http://nextv-chile.xyz:2080/diego2022/diego2022/68163
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/60d3014af72fe1b3f66c5c22f02e60d9.png" $ExtFilter="AGO 23",Moviecenter Kids
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/60d3014af72fe1b3f66c5c22f02e60d9.png" ,Moviecenter Kids
 http://nextv-chile.xyz:2080/diego2022/diego2022/68164
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/f4a78977dcb19909edbfbe81a0c477f3.png" $ExtFilter="AGO 23",Cinema DC Comics
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/f4a78977dcb19909edbfbe81a0c477f3.png" ,Cinema DC Comics
 http://nextv-chile.xyz:2080/diego2022/diego2022/68165
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/1b065679c32cd7f8ee710cd1c23128c3.png" $ExtFilter="AGO 23",Cinema DC Universe
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/1b065679c32cd7f8ee710cd1c23128c3.png" ,Cinema DC Universe
 http://nextv-chile.xyz:2080/diego2022/diego2022/68166
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/019e1d5649ced54630f07fc3dd2c85dd.png" $ExtFilter="AGO 23",Cinema Disney Family
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/019e1d5649ced54630f07fc3dd2c85dd.png" ,Cinema Disney Family
 http://nextv-chile.xyz:2080/diego2022/diego2022/68167
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/af3dfb88d1d009b57f83580b5f94ec7c.png" $ExtFilter="AGO 23",Cinema Disney Pixar
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/af3dfb88d1d009b57f83580b5f94ec7c.png" ,Cinema Disney Pixar
 http://nextv-chile.xyz:2080/diego2022/diego2022/68168
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/9e87cfd246bffddd2fb509a7c45b00df.png" $ExtFilter="AGO 23",Cinema Dreamworks
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/9e87cfd246bffddd2fb509a7c45b00df.png" ,Cinema Dreamworks
 http://nextv-chile.xyz:2080/diego2022/diego2022/68169
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/98d2a1f492e92c33cd269d49dab84840.png" $ExtFilter="AGO 23",Cinema Familia
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/98d2a1f492e92c33cd269d49dab84840.png" ,Cinema Familia
 http://nextv-chile.xyz:2080/diego2022/diego2022/68170
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/5da56400b037728f478773a5164d04ab.png" $ExtFilter="AGO 23",Cine Estelar
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/5da56400b037728f478773a5164d04ab.png" ,Cine Estelar
 http://nextv-chile.xyz:2080/diego2022/diego2022/68171
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/3bb790121d290e16237b6369bb832c70.png" $ExtFilter="AGO 23",Ultra Film
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/3bb790121d290e16237b6369bb832c70.png" ,Ultra Film
 http://nextv-chile.xyz:2080/diego2022/diego2022/68172
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/82967de52ecc8e842f0306905f7608a5.png" $ExtFilter="AGO 23",Disney Live Action
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/82967de52ecc8e842f0306905f7608a5.png" ,Disney Live Action
 http://nextv-chile.xyz:2080/diego2022/diego2022/68173
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/803cf9fbfd0b1d38e796cf79cc65cc51.png" $ExtFilter="AGO 23",Disney Princess
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/803cf9fbfd0b1d38e796cf79cc65cc51.png" ,Disney Princess
 http://nextv-chile.xyz:2080/diego2022/diego2022/68174
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/c069a169dc55fefc58e86ab061dd8201.png" $ExtFilter="AGO 23",Ultra Familia
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/c069a169dc55fefc58e86ab061dd8201.png" ,Ultra Familia
 http://nextv-chile.xyz:2080/diego2022/diego2022/68177
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/7bd8ac4d030347fb88608e32ad3341a5.png" $ExtFilter="AGO 23",La Tropa Goofy
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/7bd8ac4d030347fb88608e32ad3341a5.png" ,La Tropa Goofy
 http://nextv-chile.xyz:2080/diego2022/diego2022/68200
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/721e33af0acbec907e5aa41c20a3a098.png" $ExtFilter="AGO 23",Lo Mejor de Mickey
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/721e33af0acbec907e5aa41c20a3a098.png" ,Lo Mejor de Mickey
 http://nextv-chile.xyz:2080/diego2022/diego2022/68202
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/e114421a722bfd46aa79b74edcdc49af.png" $ExtFilter="AGO 23",Lo Mejor de Pluto
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/e114421a722bfd46aa79b74edcdc49af.png" ,Lo Mejor de Pluto
 http://nextv-chile.xyz:2080/diego2022/diego2022/68203
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/e449f894f5eb3d87de1e8257f2b77ae3.png" $ExtFilter="AGO 23",Los Simpson Retro.
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/e449f894f5eb3d87de1e8257f2b77ae3.png" ,Los Simpson Retro.
 http://nextv-chile.xyz:2080/diego2022/diego2022/68208
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/c7025abbaf82c32ac5702cd4d26b34ad.png" $ExtFilter="AGO 23",Los Simpsons Horror
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/c7025abbaf82c32ac5702cd4d26b34ad.png" ,Los Simpsons Horror
 http://nextv-chile.xyz:2080/diego2022/diego2022/68209
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/0f2a5dd4028d24b3f820b25a20955996.png" $ExtFilter="AGO 23",Los Simpsons Latinos
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/0f2a5dd4028d24b3f820b25a20955996.png" ,Los Simpsons Latinos
 http://nextv-chile.xyz:2080/diego2022/diego2022/68210
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/270626fbb85e452921a32d29f0c078f5.png" $ExtFilter="AGO 23",Los Simpsons
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/270626fbb85e452921a32d29f0c078f5.png" ,Los Simpsons
 http://nextv-chile.xyz:2080/diego2022/diego2022/68211
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/01e78d823089c874058079c7180574f6.png" $ExtFilter="AGO 23",Mickey Mouse Channel
-http://nextv-chile.xyz:2080/diego2022/diego2022/68212
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/d1a093ac4525892247bc959b1678e22c.png" $ExtFilter="AGO 23",13 Now Kids
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/d1a093ac4525892247bc959b1678e22c.png" ,13 Now Kids
 http://nextv-chile.xyz:2080/diego2022/diego2022/68175
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/a4e9491fc071b949de860a4e0b5993f9.png" $ExtFilter="AGO 23",Amazon Kids
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/a4e9491fc071b949de860a4e0b5993f9.png" ,Amazon Kids
 http://nextv-chile.xyz:2080/diego2022/diego2022/68176
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/6ef14286130fdf3dc2fed6c94ba8de46.png" $ExtFilter="AGO 23",Ultra Kids
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/6ef14286130fdf3dc2fed6c94ba8de46.png" ,Ultra Kids
 http://nextv-chile.xyz:2080/diego2022/diego2022/68178
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/02d25522e7875fc84afd14844afb5577.png" $ExtFilter="AGO 23",31 Minutos
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/02d25522e7875fc84afd14844afb5577.png" ,31 Minutos
 http://nextv-chile.xyz:2080/diego2022/diego2022/68179
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/54cb91dc046aa03e77c39ce1587abd82.png" $ExtFilter="AGO 23",Buzz Lightyear
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/54cb91dc046aa03e77c39ce1587abd82.png" ,Buzz Lightyear
 http://nextv-chile.xyz:2080/diego2022/diego2022/68180
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/315d155beb97232e7014ff9a3eb25f27.png" $ExtFilter="AGO 23",Chicas Superpoderosas
-http://nextv-chile.xyz:2080/diego2022/diego2022/68181
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/f685f05bc103ad0d73d7a100d4be34b8.png" $ExtFilter="AGO 23",El Show de Garfield
-http://nextv-chile.xyz:2080/diego2022/diego2022/68187
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/c7da8328f89a53e710a9bbc7a29edf41.png" $ExtFilter="AGO 23",Kung Fu Panda
-http://nextv-chile.xyz:2080/diego2022/diego2022/68195
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/b5f76055a17c80719255a1486890f988.png" $ExtFilter="AGO 23",La Guardia del Leon
-http://nextv-chile.xyz:2080/diego2022/diego2022/68196
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/058329981c1e95da97201a8bf3edbab4.png" $ExtFilter="AGO 23",La Sirenita
-http://nextv-chile.xyz:2080/diego2022/diego2022/68199
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/02a177742be55abde90db9a0eb4d3e40.png" $ExtFilter="AGO 23",Los Autos Locos
-http://nextv-chile.xyz:2080/diego2022/diego2022/68204
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/db270f926b1403913609841ace4c03ea.png" $ExtFilter="AGO 23",Los Croods
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/db270f926b1403913609841ace4c03ea.png" ,Los Croods
 http://nextv-chile.xyz:2080/diego2022/diego2022/68206
-#EXTINF:-1 group-title="24/7 VIP" $ExtFilter="AGO 23",13 | AFV HOME HD | 24/7\\
-http://nextv-chile.xyz:2080/diego2022/diego2022/68139
-#EXTINF:-1 group-title="24/7 VIP" $ExtFilter="AGO 23",22 | CANTINFLAS | 24/7\\
+#EXTINF:-1 group-title="24/7 VIP" $ExtFilter="AGO 23",22 | CANTINFLAS
 http://nextv-chile.xyz:2080/diego2022/diego2022/68140
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/ea491851e169e2f2e3f3874e8987a589.jpg" $ExtFilter="AGO 23",24/7 ANIMANIACS
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/ea491851e169e2f2e3f3874e8987a589.jpg" ,24/7 ANIMANIACS
 http://nextv-chile.xyz:2080/diego2022/diego2022/68141
 #EXTINF:-1 group-title="24/7 VIP" $ExtFilter="AGO 23",24/7 Barbie DreamHouse Adventures
 http://nextv-chile.xyz:2080/diego2022/diego2022/68143
@@ -4412,75 +4396,28 @@ http://nextv-chile.xyz:2080/diego2022/diego2022/68148
 http://nextv-chile.xyz:2080/diego2022/diego2022/68149
 #EXTINF:-1 group-title="24/7 VIP" $ExtFilter="AGO 23",24/7 DANIEL EL TRAVIESO 1986 SD
 http://nextv-chile.xyz:2080/diego2022/diego2022/68150
-#EXTINF:-1 group-title="24/7 VIP" $ExtFilter="AGO 23",24/7 DANNY PHANTOM \
-http://nextv-chile.xyz:2080/diego2022/diego2022/68151
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/6e45a42aa0e6feb284338d221e2f1206.png" $ExtFilter="AGO 23",24/7 DISNEY PIXAR
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/6e45a42aa0e6feb284338d221e2f1206.png" ,24/7 DISNEY PIXAR
 http://nextv-chile.xyz:2080/diego2022/diego2022/68152
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/b7c03408f96e26405cc1ae8ec3419d87.png" $ExtFilter="AGO 23",24/7 DREAMWORKS
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/b7c03408f96e26405cc1ae8ec3419d87.png" ,24/7 DREAMWORKS
 http://nextv-chile.xyz:2080/diego2022/diego2022/68153
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/780064016cea61ccffd18f7d86b01dc8.jpg" $ExtFilter="AGO 23",24/7 EL BEBE JEFAZO
-http://nextv-chile.xyz:2080/diego2022/diego2022/68154
 #EXTINF:-1 group-title="24/7 VIP" $ExtFilter="AGO 23",24/7 EL CHAPULIN COLORADO ANIMADO
 http://nextv-chile.xyz:2080/diego2022/diego2022/68155
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/6624c99badca2f048a65be08513f72ee.jpg" $ExtFilter="AGO 23",24/7 EL MUNDO OCULTO DE SABRINA
-http://nextv-chile.xyz:2080/diego2022/diego2022/68156
 #EXTINF:-1 group-title="24/7 VIP" $ExtFilter="AGO 23",24/7 MR. BEAN
 http://nextv-chile.xyz:2080/diego2022/diego2022/68157
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/21ed82bb980b0b099ea66426d2fae0bd.jpg" $ExtFilter="AGO 23",24/7 TRANSILVANIA
-http://nextv-chile.xyz:2080/diego2022/diego2022/68158
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/655e0a3a58c6dfab467ddbb5717c5dac.png" $ExtFilter="AGO 23",24/7  La Casa de Mickey Mouse (e)(720)
-http://nextv-chile.xyz:2080/diego2022/diego2022/68159
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/fde7d760a14ef79cccc85db1bbe2e0b3.png" $ExtFilter="AGO 23",24/7  Looney Tunes (e)
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/fde7d760a14ef79cccc85db1bbe2e0b3.png" ,24/7  Looney Tunes (e)
 http://nextv-chile.xyz:2080/diego2022/diego2022/68160
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/a1807277b2733f6a750eb46eaf09f6c2.png" $ExtFilter="AGO 23",24/7 VIP | Malcolm in the Middle (e)(720)
-http://nextv-chile.xyz:2080/diego2022/diego2022/68161
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/f35e9058d7ff962e9d33eddd5d2a8a23.png" $ExtFilter="AGO 23",24/7 Super Campeones (e)
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/f35e9058d7ff962e9d33eddd5d2a8a23.png" ,24/7 Super Campeones (e)
 http://nextv-chile.xyz:2080/diego2022/diego2022/68162
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/c6a5ea570385f12a39dcd4c72a70a7db.png" $ExtFilter="AGO 23",Cuentos de la Cripta
+#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/c6a5ea570385f12a39dcd4c72a70a7db.png" ,Cuentos de la Cripta
 http://nextv-chile.xyz:2080/diego2022/diego2022/68182
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/db5eb5f179b753d8580be7c13d3a9794.png" $ExtFilter="AGO 23",DC Hero Super Girls
-http://nextv-chile.xyz:2080/diego2022/diego2022/68183
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/ca62c90387ec9f926798343616e10aaf.png" $ExtFilter="AGO 23",Dinosaurios
-http://nextv-chile.xyz:2080/diego2022/diego2022/68184
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/bfe19caf90171b4d9afda238f2f7e548.png" $ExtFilter="AGO 23",Doug
-http://nextv-chile.xyz:2080/diego2022/diego2022/68185
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/a125a6b2a71e23adc002ac7fbe1a1042.png" $ExtFilter="AGO 23",El Laboratorio de Dexter
-http://nextv-chile.xyz:2080/diego2022/diego2022/68186
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/da10fc1d85d90633b3fe54d3ad5a16f2.png" $ExtFilter="AGO 23",Escandalosos 1
-http://nextv-chile.xyz:2080/diego2022/diego2022/68188
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/fe53463ce88bec0e7e8e8f27c498e6cf.png" $ExtFilter="AGO 23",Escandalosos 2
-http://nextv-chile.xyz:2080/diego2022/diego2022/68189
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/03ab28931a2d1fbe8a6493a72cb41dfc.png" $ExtFilter="AGO 23",Escandalosos 3
-http://nextv-chile.xyz:2080/diego2022/diego2022/68190
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/5832e1ce428dca0dbdfd2cb84d9c40e8.png" $ExtFilter="AGO 23",Fenomenoide
-http://nextv-chile.xyz:2080/diego2022/diego2022/68191
 #EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/c4154439a9ea513f599c3ddf8edc14bc.png" $ExtFilter="AGO 23",Gallo claudio
 http://nextv-chile.xyz:2080/diego2022/diego2022/68192
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/6f0bb6b2b51f54a0fc742bab91fa45ee.png" $ExtFilter="AGO 23",Grupo Increible
-http://nextv-chile.xyz:2080/diego2022/diego2022/68193
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/7e4270c9edf5a72a13a0eca08522163b.png" $ExtFilter="AGO 23",Huevos Verdes con Jamon
-http://nextv-chile.xyz:2080/diego2022/diego2022/68194
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/3d95f56d911011e8c2c182376a2aba0b.png" $ExtFilter="AGO 23",La Resistencia
-http://nextv-chile.xyz:2080/diego2022/diego2022/68197
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/33c47de0a1e5afab114ac4668e63b695.png" $ExtFilter="AGO 23",La Resistencia Canal 2
-http://nextv-chile.xyz:2080/diego2022/diego2022/68198
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/abfbafc9254e6b5020bcccecc01a12e7.png" $ExtFilter="AGO 23",Little Pet Shop
-http://nextv-chile.xyz:2080/diego2022/diego2022/68201
 #EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/75c594251772811a952cf10cbc1a1676.png" $ExtFilter="AGO 23",Los Cazafantasmas
 http://nextv-chile.xyz:2080/diego2022/diego2022/68205
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/b5b09237c67d16a8f648b60a9a305c46.png" $ExtFilter="AGO 23",Los Gatos Samurai
-http://nextv-chile.xyz:2080/diego2022/diego2022/68207
 #EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/59cbdd7172b27a41fa3aa0e18b1b16d8.png" $ExtFilter="AGO 23",Mr.Bean
 http://nextv-chile.xyz:2080/diego2022/diego2022/68213
 #EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/d6504b5fa73abe141ff9a4124352207f.png" $ExtFilter="AGO 23",Pato Darwing
 http://nextv-chile.xyz:2080/diego2022/diego2022/68214
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/daa730c1eb59c94587e0f2e4b8ef33a6.png" $ExtFilter="AGO 23",Peppa Pig
-http://nextv-chile.xyz:2080/diego2022/diego2022/68215
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/f515b7116d0c565bc8e683625dfba603.png" $ExtFilter="AGO 23",Princesa Sofia
-http://nextv-chile.xyz:2080/diego2022/diego2022/68216
-#EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/142ca6283f8fb70c6dcbab9261613c64.png" $ExtFilter="AGO 23",Street Shark
-http://nextv-chile.xyz:2080/diego2022/diego2022/68217
-
 
 #EXTINF:-1 group-title="24/7 Cine y Familiares" tvg-logo="http://tutv.online:36995/images/d3788bb50fb66ef107dcd68f686f976c.jpg" $ExtFilter="AGO 23",24/7 | Alien (ES)
 http://nextv-chile.xyz:2080/diego2022/diego2022/18379
