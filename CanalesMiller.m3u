@@ -3792,19 +3792,19 @@ http://jumangis.com:2082/cuenta0004/TWuu2JrWzf/149600.ts
 http://jumangis.com:2082/cuenta0004/TWuu2JrWzf/149601.ts
 #EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" tvg-logo="../Channel/Logo/Ultra HD Cinema.png",Cine TV: Sr Cine 60fps Acción HD
 http://jumangis.com:2082/cuenta0004/TWuu2JrWzf/55299.ts
-#EXTINF:-1 tvg-name="⚡⚡FAVORITOS⚡⚡" ,Cine TV: Sr Cine Batallas Mitologicas HD
+#EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" ,Cine TV: Sr Cine Batallas Mitologicas HD
 http://megatitan.net:8080/Gilberto/123456/313525
-#EXTINF:-1 tvg-name="⚡⚡FAVORITOS⚡⚡" ,Cine TV: Sr Cine Extraterrestres HD
+#EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" ,Cine TV: Sr Cine Extraterrestres HD
 http://megatitan.net:8080/Gilberto/123456/69261
-#EXTINF:-1 tvg-name="⚡⚡FAVORITOS⚡⚡" ,24/7 El Auto Fantastico Temp 1
+#EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" ,24/7 El Auto Fantastico Temp 1
 http://megatitan.net:8080/Gilberto/123456/24660
-#EXTINF:-1 tvg-name="⚡⚡FAVORITOS⚡⚡" ,24/7 El Auto Fantastico (2008)
+#EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" ,24/7 El Auto Fantastico (2008)
 http://megatitan.net:8080/Gilberto/123456/26595
-#EXTINF:-1 tvg-name="⚡⚡FAVORITOS⚡⚡1" ,24/7 Los Magnificos Temp 1
+#EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡1" ,24/7 Los Magnificos Temp 1
 http://megatitan.net:8080/Gilberto/123456/26597
-#EXTINF:-1 tvg-name="⚡⚡FAVORITOS⚡⚡" ,24/7 Los Magnificos Temp 1
+#EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" ,24/7 Los Magnificos Temp 1
 http://megatitan.net:8080/Gilberto/123456/26620
-#EXTINF:-1 tvg-name="⚡⚡FAVORITOS⚡⚡" ,24/7 MacGiver (2016) Temp 2
+#EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" ,24/7 MacGiver (2016) Temp 2
 http://megatitan.net:8080/Gilberto/123456/26621
 #EXTINF:-1 group-title="⚡⚡FAVORITOS⚡⚡" tvg-logo="http://castlempire.site:8080/images/c7496002c9d9b6c5b78b338a2b8baf57.png" $ExtFilter="AGO 23",24/7 VIP | Dos Hombres y Medio (e)(720)
 http://nextv-chile.xyz:2080/diego2022/diego2022/71476
@@ -4315,13 +4315,13 @@ http://premium.video-flixtv.com:8080/909090/909090/10411
 http://premium.video-flixtv.com:8080/909090/909090/10412
 #EXTINF:-1 group-title="😈XXX VIP😈" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",XXX: EXTREME
 http://premium.video-flixtv.com:8080/909090/909090/10393
-#EXTINF:-1 tvg-name="😈XXX VIP😈" ,XXX: SexMex (VIP)
+#EXTINF:-1 group-title="😈XXX VIP😈" ,XXX: SexMex2 (VIP)
 http://megatitan.net:8080/Gilberto/123456/25163
-#EXTINF:-1 tvg-name="😈XXX VIP😈" ,XXX: Dancing Bear HD (VIP)
+#EXTINF:-1 group-title="😈XXX VIP😈" ,XXX: Dancing Bear HD2 (VIP)
 http://megatitan.net:8080/Gilberto/123456/27253
-#EXTINF:-1 tvg-name="😈XXX VIP😈" ,XXX: Hot Guys Fuck
+#EXTINF:-1 group-title="😈XXX VIP😈" ,XXX: Hot Guys Fuck
 http://megatitan.net:8080/Gilberto/123456/233371
-#EXTINF:-1 tvg-name="😈XXX VIP😈" ,XXX: SexTreame
+#EXTINF:-1 group-title="😈XXX VIP😈" ,XXX: SexTreame
 http://megatitan.net:8080/Gilberto/123456/233417
 
 #EXTINF:-1 group-title="24/7 VIP" tvg-logo="http://54.39.156.227:2080/images/cba656ddfe995a606780de09d0c52169.png" $ExtFilter="AGO 23",Moviecenter Premium
